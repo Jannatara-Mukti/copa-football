@@ -163,11 +163,13 @@ nav ul li a{
  }
 .notes{
    border-top: 1px solid  #2d25a05e;
+   border-bottom: 1px solid  #2d25a05e;
 }
 
 /* Footer Style  */
 footer{
     text-align: center;
+    margin-bottom: 65px;
 }
 .logo img{
     width: 30%;
